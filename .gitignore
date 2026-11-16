@@ -1,0 +1,20 @@
+# Dependencies
+node_modules/
+
+# Compiled output
+dist/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# macOS
+.DS_Store
+
+# IDE local settings
+.idea/
