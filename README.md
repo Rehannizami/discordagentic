@@ -1,3 +1,1 @@
-# AgenticDiscord
-
-A multi-agent communication and coordination system integrating Antigravity, Discord, and MCP.
+## This will be the readme. Copy what I give u in docs. Straight up. No BS.
